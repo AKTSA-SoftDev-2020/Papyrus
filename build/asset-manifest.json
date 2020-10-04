@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/papyrus-lms/static/css/main.1ba3d64a.chunk.css",
+    "main.js": "/papyrus-lms/static/js/main.6fb8c3c9.chunk.js",
+    "main.js.map": "/papyrus-lms/static/js/main.6fb8c3c9.chunk.js.map",
+    "runtime-main.js": "/papyrus-lms/static/js/runtime-main.14bb1de6.js",
+    "runtime-main.js.map": "/papyrus-lms/static/js/runtime-main.14bb1de6.js.map",
+    "static/js/2.5f7beeff.chunk.js": "/papyrus-lms/static/js/2.5f7beeff.chunk.js",
+    "static/js/2.5f7beeff.chunk.js.map": "/papyrus-lms/static/js/2.5f7beeff.chunk.js.map",
+    "index.html": "/papyrus-lms/index.html",
+    "precache-manifest.36f5b950a00a2cd538b39fac50c7c08b.js": "/papyrus-lms/precache-manifest.36f5b950a00a2cd538b39fac50c7c08b.js",
+    "service-worker.js": "/papyrus-lms/service-worker.js",
+    "static/css/main.1ba3d64a.chunk.css.map": "/papyrus-lms/static/css/main.1ba3d64a.chunk.css.map",
+    "static/js/2.5f7beeff.chunk.js.LICENSE.txt": "/papyrus-lms/static/js/2.5f7beeff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/papyrus-lms/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14bb1de6.js",
+    "static/js/2.5f7beeff.chunk.js",
+    "static/css/main.1ba3d64a.chunk.css",
+    "static/js/main.6fb8c3c9.chunk.js"
+  ]
+}
